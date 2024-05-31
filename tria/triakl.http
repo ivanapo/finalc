@@ -1,0 +1,6 @@
+@triakl_HostAddress = http://localhost:5062
+
+GET {{triakl_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
